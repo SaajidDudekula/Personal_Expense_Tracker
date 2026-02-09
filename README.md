@@ -93,5 +93,3 @@ Author
 Saajidvali Dudekula
 Frontend Developer | Learning Python
 🌐 https://saajiddudekula.com
-pgsql
-Copy cod
