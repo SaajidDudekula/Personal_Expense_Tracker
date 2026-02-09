@@ -32,22 +32,14 @@ This project focuses on clean backend logic, basic UI, and real-life usability.
 ## Project Structure
 
 personal-expense-tracker-python/
-│
 ├── app.py
 ├── requirements.txt
 ├── README.md
-│
 ├── templates/
 │ └── index.html
-│
 └── static/
 ├── styles.css
 └── app.js
-
-yaml
-Copy code
-
----
 
 ## Setup Instructions (Local)
 
